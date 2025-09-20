@@ -1,0 +1,9 @@
+model/*
+*.pyc
+test.ipynb
+__pycache__/
+.pytest_cache/
+catboost_info/
+new_model.ipynb
+config.bat
+node_modules
